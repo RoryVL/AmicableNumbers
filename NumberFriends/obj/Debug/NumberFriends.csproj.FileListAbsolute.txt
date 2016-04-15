@@ -1,0 +1,6 @@
+C:\Users\Rory\Source\Repos\numberfriends\NumberFriends\bin\Debug\NumberFriends.exe.config
+C:\Users\Rory\Source\Repos\numberfriends\NumberFriends\bin\Debug\NumberFriends.exe
+C:\Users\Rory\Source\Repos\numberfriends\NumberFriends\bin\Debug\NumberFriends.pdb
+C:\Users\Rory\Source\Repos\numberfriends\NumberFriends\obj\Debug\NumberFriends.csprojResolveAssemblyReference.cache
+C:\Users\Rory\Source\Repos\numberfriends\NumberFriends\obj\Debug\NumberFriends.exe
+C:\Users\Rory\Source\Repos\numberfriends\NumberFriends\obj\Debug\NumberFriends.pdb
